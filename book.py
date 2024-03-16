@@ -23,7 +23,7 @@ my_library = Library()
 
 #instanciation de la classe livre
 book_1 = Book("alice et la diligence", 1951, "disponible")
-book_2 = Book("Harry potter et le Fantome", 2000, "disponible")
+book_2 = Book("Harry potter à l'école des sorciers", 1997, "disponible")
 
 my_library.add_book(book_1)
 my_library.add_book(book_2)
